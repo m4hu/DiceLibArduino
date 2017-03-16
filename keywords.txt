@@ -1,0 +1,4 @@
+# Schlüsselwörter für Datentypen:
+Dice KEYWORD1
+# Schlüsselwörter für Methoden: KEYWORD2
+roll KEYWORD2
